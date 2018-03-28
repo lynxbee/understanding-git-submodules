@@ -1,3 +1,6 @@
 [submodule "submodule_one"]
 	path = submodule_one
 	url = https://github.com/lynxbee/submodule_one.git
+[submodule "submodule_two"]
+	path = submodule_two
+	url = https://github.com/lynxbee/submodule_two.git
