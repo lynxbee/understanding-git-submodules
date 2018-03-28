@@ -1,0 +1,4 @@
+This helps to understand how git submodules are used.
+git submodule command Inspects, updates and manages submodules.
+
+$ git clone https://github.com/lynxbee/understanding-git-submodules.git
